@@ -1,0 +1,14 @@
+*** Begin Patch
+*** Update File: src/app/pages/skills/skills.component.ts
+@@
+       'n8n',
+-      'seguran?a',
+-      'security',
+-      'lgpd',
+-      'governan?a',
++      'segurança',
+       'security',
++      'lgpd',
++      'governança',
+*** End Patch
+

@@ -54,7 +54,7 @@ interface TranslatedChip {
               </h2>
               <app-chip
                 *ngIf="group.titleKey === 'skills.devops_title'"
-                label="AWS · VPS · DNS"
+                label="AWS Â· VPS Â· DNS"
                 icon="Globe"
                 [ariaLabel]="'skills.devops_chip_aria' | translate"
                 extraClasses="text-xs sm:text-sm"

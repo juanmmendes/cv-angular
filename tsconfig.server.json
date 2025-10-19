@@ -2,7 +2,8 @@
   "extends": "./tsconfig.app.json",
   "compilerOptions": {
     "outDir": "./out-tsc/server",
-    "module": "CommonJS",
+    "module": "ES2022",
+    "moduleResolution": "NodeNext",
     "types": [
       "node"
     ]
