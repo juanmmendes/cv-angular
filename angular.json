@@ -47,7 +47,8 @@
               ],
               "outputHashing": "all",
               "optimization": true,
-              "sourceMap": false
+              "sourceMap": false,
+              "baseHref": "/cv-angular/"
             },
             "development": {
               "buildOptimizer": false,
