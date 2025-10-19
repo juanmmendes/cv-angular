@@ -1,0 +1,463 @@
+{
+  "name": "Juan Mendes",
+  "headline": "Data Science | Full Stack Developer",
+  "tagline": "I turn curiosity into code and data into solutions",
+  "location": "Hortolândia-SP, Brazil",
+  "contacts": {
+    "email": "juan.zx016@gmail.com",
+    "phone": "+55 19 99979-1601",
+    "github": "https://github.com/juanmmendes",
+    "linkedin": "https://www.linkedin.com/in/juan-mendes-739084273/",
+    "discord": "https://discord.com/users/724413788203253773",
+    "steam": "https://steamcommunity.com/profiles/76561199305304396"
+  },
+  "summary": "Technology professional focused on data, automation and user experience. Recently graduated as an IT technician (UNASP) and currently pursuing a BSc in Information Systems, delivering projects that connect Node.js, Angular, n8n, Power BI and Microsoft 365 to drive operational efficiency and data intelligence.",
+  "studying_now": [
+    "Automation flows with n8n",
+    "Data cleaning and forecasting models",
+    "Data wrangling (Python/Power BI)",
+    "Advanced Angular & TypeScript",
+    "Automation on Microsoft 365 (Power Automate)"
+  ],
+  "skills": {
+    "languages_frameworks": [
+      "TypeScript",
+      "JavaScript",
+      "Angular",
+      "Node.js",
+      "Python",
+      "HTML",
+      "CSS/SCSS"
+    ],
+    "data_bi_ml": [
+      "Power BI",
+      "Pandas (basic)",
+      "ETL",
+      "Exploratory Data Analysis",
+      "Forecasting (concepts)",
+      "Machine Learning",
+      "AI agent creation"
+    ],
+    "devops_tools": [
+      "Git",
+      "CI/CD pipelines",
+      "Supabase/PostgreSQL",
+      "n8n",
+      "AWS (Skill Builder)",
+      "VPS",
+      "DNS"
+    ],
+    "automation_tools": [
+      "Hosting management & maintenance",
+      "Registrar & domain lifecycle",
+      "Microsoft 365",
+      "Power Automate",
+      "Information security",
+      "LGPD & data protection",
+      "Data encryption",
+      "Machine Learning",
+      "AI agents",
+      "Network protocols",
+      "HTTP(S) requests"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Software Developer",
+      "company": "Marinho Mendes Advogados",
+      "period": "Jun/2025 – Present",
+      "location": "Campinas, São Paulo, Brazil",
+      "contractType": "Internship",
+      "highlights": [
+        "Architecting legal automation solutions with Node.js/TypeScript, PostgreSQL (Supabase) and n8n.",
+        "Implementing event-driven architecture, microservices and multi-channel integrations to streamline legal workflows.",
+        "Building observability pipelines on VPS infrastructure with smart alerts, queues and end-to-end traceability."
+      ],
+      "stack": [
+        "Node.js",
+        "TypeScript",
+        "Supabase/PostgreSQL",
+        "n8n",
+        "Docker",
+        "RESTful APIs",
+        "WebHooks",
+        "OAuth 2.0"
+      ],
+      "competencies": [
+        "n8n",
+        "Process automation",
+        "Statistical data analysis",
+        "CRM",
+        "Organizational development",
+        "Agile methodologies",
+        "Tax law",
+        "User experience (UX)",
+        "ERP"
+      ]
+    },
+    {
+      "role": "Executive Administrative Assistant",
+      "company": "Condomínio Monterrey Reserva",
+      "period": "Oct/2024 – Jun/2025",
+      "location": "Monte Mor, São Paulo, Brazil",
+      "contractType": "Full-time · On-site",
+      "highlights": [
+        "Supported administrative, financial and operational routines ensuring smooth condominium management.",
+        "Handled resident and vendor communications, coordinated meetings and documented assemblies and decisions.",
+        "Automated financial reports and operational dashboards with Power BI and Microsoft 365 to accelerate decision-making."
+      ],
+      "stack": [
+        "Power BI",
+        "Microsoft 365",
+        "Property management"
+      ],
+      "competencies": [
+        "People management",
+        "Administrative support",
+        "Fiscal accounting",
+        "Organizational development",
+        "Internal controls",
+        "Conflict resolution",
+        "Microsoft Office"
+      ]
+    },
+    {
+      "role": "IT Intern",
+      "company": "Centro Universitário Adventista de São Paulo (UNASP)",
+      "period": "Jan/2022 – Nov/2024",
+      "location": "Hortolândia, São Paulo, Brazil",
+      "contractType": "Internship · On-site",
+      "highlights": [
+        "Maintained infrastructure and delivered technical support for students, faculty and administrative teams.",
+        "Collaborated on internal systems, web integrations and academic workflow automation.",
+        "Enhanced user support, technical documentation and cross-functional teamwork practices."
+      ],
+      "stack": [
+        "Technical support",
+        "IT infrastructure",
+        "Web project management"
+      ],
+      "competencies": [
+        "Time management",
+        "Team collaboration",
+        "Data modelling",
+        "Graphic design",
+        "Digital innovation",
+        "Communication",
+        "Team leadership"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "course": "BSc in Information Systems",
+      "institution": "UNASP Hortolândia",
+      "period": "2025 – 2028"
+    },
+    {
+      "course": "High School & Technical Diploma in Informatics",
+      "institution": "UNASP Hortolândia",
+      "period": "2022 – 2024"
+    }
+  ],
+  "languages": [
+    "Portuguese (native)",
+    "English",
+    "Spanish"
+  ],
+  "certifications": [
+    {
+      "name": "SAP S/4HANA Cloud Public Edition",
+      "issuer": "SAP",
+      "type": "Certification",
+      "issued": "2025",
+      "competencies": [
+        "ERP",
+        "Business processes",
+        "Systems integration"
+      ]
+    },
+    {
+      "name": "n8n - Gestor A.I.A",
+      "issuer": "n8n",
+      "type": "Certification",
+      "issued": "2025",
+      "competencies": [
+        "Process automation",
+        "API integration",
+        "Workflow orchestration"
+      ]
+    },
+    {
+      "name": "English - TransferEnglish",
+      "issuer": "TransferEnglish",
+      "type": "Certification",
+      "issued": "2024"
+    },
+    {
+      "name": "Power BI - Hashtag Treinamentos",
+      "issuer": "Hashtag Treinamentos",
+      "type": "Course",
+      "issued": "2024",
+      "competencies": [
+        "Interactive dashboards",
+        "Data modelling",
+        "Data storytelling"
+      ]
+    },
+    {
+      "name": "Node.js - Alura",
+      "issuer": "Alura",
+      "type": "Course",
+      "issued": "2024",
+      "competencies": [
+        "REST APIs",
+        "JavaScript best practices",
+        "Database integration"
+      ]
+    },
+    {
+      "name": "AWS Skill Builder",
+      "issuer": "Amazon Web Services",
+      "type": "Course",
+      "issued": "2024",
+      "competencies": [
+        "Cloud fundamentals",
+        "AWS managed services",
+        "Security best practices"
+      ]
+    },
+    {
+      "name": "Portuguese Language Workshop (Grammar)",
+      "issuer": "Fundação Bradesco",
+      "type": "License",
+      "issued": "Aug/2025",
+      "expires": "Aug/2035",
+      "credentialId": "50DF6C46-BF4B-4D33-9E39-C14868ED1929",
+      "competencies": [
+        "Grammar & agreement",
+        "Text structuring",
+        "Syntactic functions",
+        "Spelling and punctuation",
+        "Formal communication"
+      ],
+      "description": "Enhanced mastery of formal Portuguese, communication clarity and application of grammar rules.",
+      "evidenceUrl": "assets/docs/CursoGramatica.pdf"
+    },
+    {
+      "name": "Activity Certificate - Hackathon 2025 - Unasp Tech",
+      "issuer": "Even3",
+      "type": "Certification",
+      "issued": "May/2025",
+      "credentialId": "18458703.81543841.8672321.8.84587038154384186723218",
+      "description": "Participation in an innovation marathon focused on impactful digital solutions."
+    },
+    {
+      "name": "Database Administration",
+      "issuer": "Fundação Bradesco",
+      "type": "Course",
+      "issued": "Sep/2025",
+      "credentialId": "B5EEDA3C-5F1A-4F50-A005-D0D964454296",
+      "competencies": [
+        "Relational database administration",
+        "SQL Server",
+        "Integrity and security policies"
+      ]
+    },
+    {
+      "name": "Data Analysis in Power BI",
+      "issuer": "Fundação Bradesco",
+      "type": "Course",
+      "issued": "Aug/2025",
+      "credentialId": "5309B7F4-723C-4AA3-A35F-F0FBCB30B3C5",
+      "competencies": [
+        "Exploratory analysis",
+        "Natural language Q&A",
+        "Predictive modelling in Power BI",
+        "Key influencers & decomposition tree"
+      ],
+      "evidenceUrl": "assets/docs/PowerBiAnalise.pdf"
+    },
+    {
+      "name": "Professional Presence & Image",
+      "issuer": "Fundação Bradesco",
+      "type": "Course",
+      "issued": "Aug/2025",
+      "credentialId": "E0405F0B-6808-4D22-9CE3-CF727DA3924F",
+      "competencies": [
+        "Interpersonal communication",
+        "Self-management",
+        "Adaptation to organizational culture"
+      ]
+    },
+    {
+      "name": "AI for Your Next Job: from CV to Interview",
+      "issuer": "Fundação Bradesco",
+      "type": "Course",
+      "issued": "Aug/2025",
+      "credentialId": "47AB6F4F-9B92-4867-A948-CD3CCA5D2A06",
+      "competencies": [
+        "AI applied to recruitment",
+        "ATS-friendly resumes",
+        "Personal branding & networking",
+        "Structured interview strategies (STARR)"
+      ]
+    },
+    {
+      "name": "Database Implementation",
+      "issuer": "Fundação Bradesco",
+      "type": "Course",
+      "issued": "Aug/2025",
+      "credentialId": "02F16181-843F-48D7-83A7-F7157F1AE223",
+      "competencies": [
+        "Modelling & normalization",
+        "Advanced SQL statements",
+        "SQL Server instance management"
+      ]
+    },
+    {
+      "name": "Artificial Intelligence & the Digital Culture Context",
+      "issuer": "Fundação Bradesco",
+      "type": "Course",
+      "issued": "Aug/2025",
+      "credentialId": "B7CDFC99-B21B-4167-B3B7-BBAD47C06958",
+      "competencies": [
+        "Societal impact of AI",
+        "Data governance & digital rights",
+        "AI applied to education"
+      ]
+    },
+    {
+      "name": "General Data Protection Law (LGPD)",
+      "issuer": "Fundação Bradesco",
+      "type": "Course",
+      "issued": "Aug/2025",
+      "credentialId": "0B90AFCA-2DD3-4383-9BC9-BD589C27D2AB",
+      "competencies": [
+        "LGPD",
+        "General Data Protection Regulation",
+        "Information security"
+      ]
+    },
+    {
+      "name": "Information Security",
+      "issuer": "Fundação Bradesco",
+      "type": "Course",
+      "issued": "Aug/2025",
+      "credentialId": "4FD2CD83-9D63-4D72-B14C-51EA49953704",
+      "competencies": [
+        "Confidentiality, integrity, availability",
+        "ISO/IEC 27002",
+        "Vulnerability management"
+      ]
+    },
+    {
+      "name": "SharePoint",
+      "issuer": "Fundação Bradesco",
+      "type": "Course",
+      "issued": "Aug/2025",
+      "credentialId": "1789CB78-9CE7-44E4-9977-AC0D0FF66BEC",
+      "competencies": [
+        "Content governance",
+        "Digital collaboration",
+        "Corporate site customization"
+      ],
+      "evidenceUrl": "assets/docs/SharePoint.pdf"
+    },
+    {
+      "name": "Visualizing Data in Power BI",
+      "issuer": "Fundação Bradesco",
+      "type": "Course",
+      "issued": "Aug/2025",
+      "credentialId": "47AB6F4F-9B92-4867-A948-CD3CCA5D2A06",
+      "competencies": [
+        "Data visualization",
+        "Dashboard design",
+        "Data storytelling",
+        "KPI presentation & UX"
+      ],
+      "evidenceUrl": "assets/docs/Visualiza%C3%A7%C3%A3oDeDadosPowerBI.pdf"
+    }
+  ],
+  "projects": [
+    {
+      "name": "8remedios",
+      "description": "Project created during Hacktown (academic hackathon) focused on digital solutions that promote health and well-being.",
+      "stack": [
+        "HTML",
+        "CSS",
+        "JS",
+        "AWS Cloud",
+        "DNS"
+      ],
+      "links": {
+        "github": "https://github.com/juanmmendes/8remedios"
+      }
+    },
+    {
+      "name": "Editor-de-Texto-Rich-Text",
+      "description": "Rich text editor with formatting controls: bold, italic, underline, lists, alignment, keyboard shortcuts and commands.",
+      "stack": [
+        "JavaScript",
+        "DOM",
+        "VPS"
+      ],
+      "links": {
+        "github": "https://github.com/juanmmendes/Editor-de-Texto-Rich-Text"
+      }
+    },
+    {
+      "name": "portfolio",
+      "description": "Modern portfolio in HTML/CSS/JS integrated with the GitHub API to sync languages and projects.",
+      "stack": [
+        "HTML",
+        "CSS",
+        "JS",
+        "Power Automate",
+        "Microsoft 365"
+      ],
+      "links": {
+        "github": "https://github.com/juanmmendes/portfolio"
+      }
+    },
+    {
+      "name": "ecommerce_predicao",
+      "description": "End-to-end data pipeline for e-commerce: synthetic datasets, ETL, exploratory analysis, churn prediction and dashboard.",
+      "stack": [
+        "Python",
+        "Pandas",
+        "Power BI",
+        "n8n"
+      ],
+      "links": {
+        "github": "https://github.com/juanmmendes/ecommerce_predicao"
+      }
+    },
+    {
+      "name": "Gerenciamento-de-vendas",
+      "description": "Sales performance visualization by store, product and payment method with interactive insights for retail teams.",
+      "stack": [
+        "Python",
+        "BI",
+        "Power BI",
+        "Azure",
+        "AWS Cloud"
+      ],
+      "links": {
+        "github": "https://github.com/juanmmendes/Gerenciamento-de-vendas"
+      }
+    },
+    {
+      "name": "PowerBI-Xperiun",
+      "description": "Full BI project in Power BI developed during a practical bootcamp.",
+      "stack": [
+        "Power BI",
+        "DataViz",
+        "DNS"
+      ],
+      "links": {
+        "github": "https://github.com/juanmmendes/PowerBI-Xperiun"
+      }
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Placeholder screenshot for the Experience timeline. Replace with an actual capture showcasing the vertical timeline animation.
+Suggested base64 (1x1 transparent PNG):
+data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQIW2NkYGD4DwABAwEAHlhnWQAAAABJRU5ErkJggg==

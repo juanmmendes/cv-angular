@@ -1,0 +1,3 @@
+Placeholder screenshot for the Projects grid. Replace with a real capture highlighting the filter panel and cards.
+Suggested base64 (1x1 transparent PNG):
+data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQIW2NkYGD4DwABAwEAHlhnWQAAAABJRU5ErkJggg==

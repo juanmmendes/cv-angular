@@ -1,0 +1,167 @@
+{
+  "a11y": {
+    "skip_to_content": "Pular para o conteúdo principal"
+  },
+  "app": {
+    "meta": {
+      "site_name": "Portfólio de Juan Mendes"
+    }
+  },
+  "nav": {
+    "home": "Início",
+    "about": "Sobre Mim",
+    "skills": "Skills",
+    "experience": "Experiência",
+    "projects": "Projetos",
+    "contact": "Contato"
+  },
+  "home": {
+    "cta_cv": "Baixar CV (PDF)",
+    "cta_projects": "Ver projetos",
+    "cta_whatsapp": "Contato WhatsApp",
+    "main_stacks": "Stacks principais",
+    "hero_status": "Disponível para oportunidades em dados, automação e desenvolvimento",
+    "studying_now": "No que estou mergulhado agora",
+    "highlights": {
+      "analytics_title": "Decisões orientadas por dados",
+      "analytics_description": "Painéis e narrativas com Power BI e Python para acelerar insights.",
+      "operations_title": "Operações conectadas",
+      "operations_description": "Projetos em Node.js, Angular e integrações n8n para eliminar tarefas repetitivas.",
+      "automation_title": "Automação inteligente",
+      "automation_description": "Fluxos de trabalho com Power Automate, Microsoft 365 e AWS para impulsionar equipes."
+    },
+    "cta_cv_aria": "Baixar o currículo de Juan Mendes em PDF",
+    "cta_photo": "Foto de perfil",
+    "cta_photo_aria": "Baixar a foto de perfil atualizada",
+    "cta_whatsapp_aria": "Abrir conversa no WhatsApp com Juan Mendes"
+  },
+  "about": {
+    "title": "Sobre Mim",
+    "availability": "Disponibilidade",
+    "availability_description": "Aberto a oportunidades híbridas ou remotas com foco em dados, desenvolvimento full stack e automações corporativas.",
+    "studying_now": "Foco atual de estudos",
+    "languages_title": "Idiomas",
+    "courses_title": "Cursos e certificações em destaque",
+    "courses_description": "Alguns programas e credenciais que fortalecem minha atuação em dados, automação e experiências digitais.",
+    "highlight_certifications": {
+      "title": "Certificações em destaque",
+      "description": "Conquistas recentes com certificados prontos para download."
+    }
+  },
+  "skills": {
+    "title": "Habilidades em destaque",
+    "subtitle": "Equilíbrio entre engenharia de dados, desenvolvimento full stack e automação de processos.",
+    "languages_title": "Linguagens & Frameworks",
+    "data_title": "Data/BI & ML",
+    "devops_title": "DevOps & Ferramentas",
+    "infrastructure_focus": {
+      "title": "Infraestrutura & Governança",
+      "description": "Experiência prática em AWS, gestão de DNS, administração de VPS, hospedagens e padronização de domínios.",
+      "items": {
+        "aws": "AWS Skill Builder",
+        "hosting": "Manutenção de hospedagens",
+        "domains": "Registro de domínios",
+        "m365": "Microsoft 365"
+      },
+      "items_aria": {
+        "aws": "Capacitação oficial AWS",
+        "hosting": "Gestão de hospedagens e VPS",
+        "domains": "Registro e ciclo de vida de domínios",
+        "m365": "Administração Microsoft 365 e Power Automate"
+      }
+    },
+    "soft_skills": {
+      "title": "Soft skills em ação",
+      "description": "Habilidades humanas que sustentam a entrega confiável em iniciativas de dados e tecnologia.",
+      "focus_people": "Foco nas pessoas",
+      "focus_delivery": "Foco na entrega",
+      "items": {
+        "communication": "Comunicação empática",
+        "leadership": "Liderança colaborativa",
+        "analytics": "Pensamento analítico",
+        "time": "Gestão do tempo",
+        "organization": "Organização e planejamento",
+        "problem_solving": "Resolução de problemas",
+        "learning": "Aprendizado contínuo",
+        "agile": "Metodologias ágeis",
+        "adaptability": "Adaptabilidade"
+      }
+    },
+    "advanced_knowledge": {
+      "title": "Conhecimento avançado",
+      "description": "Segurança, governança de dados e automações inteligentes para cenários empresariais.",
+      "items": {
+        "security": "Segurança da informação",
+        "lgpd": "LGPD & proteção de dados",
+        "crypto": "Criptografia aplicada",
+        "ml": "Machine Learning",
+        "agents": "Agentes de IA",
+        "protocols": "Protocolos de rede",
+        "http": "HTTP(S) requests"
+      },
+      "items_aria": {
+        "security": "Boas práticas de segurança da informação",
+        "lgpd": "Conformidade com LGPD",
+        "crypto": "Criptografia e proteção de dados sensíveis",
+        "ml": "Modelagem e experimentos de machine learning",
+        "agents": "Construção de agentes inteligentes",
+        "protocols": "Conhecimento em protocolos de redes",
+        "http": "Integrações e requisições HTTP/HTTPS"
+      }
+    },
+    "tooling_title": "Ferramentas & Governança",
+    "level": {
+      "intermediate": "Intermediário",
+      "advanced": "Avançado"
+    },
+    "devops_chip_aria": "Conecte as principais ferramentas de infraestrutura (AWS, VPS, DNS)"
+  },
+  "experience": {
+    "title": "Experiência profissional",
+    "subtitle": "Impacto medido em eficiência, automação e insights orientados por dados."
+  },
+  "education": {
+    "title": "Formação acadêmica",
+    "subtitle": "Base sólida em tecnologia com evolução contínua em ciência e engenharia de dados."
+  },
+  "projects": {
+    "title": "Projetos em destaque",
+    "subtitle": "Aplicações e pipelines que unem dados, automação e experiências digitais de alta performance.",
+    "view_demo": "Ver demo",
+    "view_code": "Ver código",
+    "more_repos": "Ver repositórios",
+    "filter_all": "Todos"
+  },
+  "certifications": {
+    "title": "Cursos, certificações e licenças",
+    "subtitle": "Credenciais que comprovam minha dedicação contínua a tecnologia, dados e desenvolvimento profissional.",
+    "issued": "Emitido",
+    "expires": "Expira",
+    "credential": "Credencial",
+    "view_certificate": "Ver certificado"
+  },
+  "contact": {
+    "title": "Vamos conversar?",
+    "subtitle": "Escolha um canal direto ou envie uma mensagem para falarmos sobre projetos de dados e inovação.",
+    "direct_links": "Links rápidos",
+    "social_title": "Conecte-se comigo",
+    "form": {
+      "name": "Nome completo",
+      "name_error": "Informe seu nome com pelo menos 3 caracteres.",
+      "email": "E-mail",
+      "email_error": "Informe um e-mail válido.",
+      "message": "Mensagem",
+      "message_error": "Descreva sua mensagem (mínimo de 10 caracteres).",
+      "submit": "Enviar mensagem",
+      "success": "Mensagem registrada! Abrimos o WhatsApp para continuar a conversa.",
+      "notice_whatsapp": "Ao enviar, abrimos uma conversa no WhatsApp para agilizar o retorno.",
+      "whatsapp_template": "Olá Juan! Meu nome é {{name}} ({{email}}). Gostaria de conversar sobre: {{message}}"
+    }
+  },
+  "footer": {
+    "description": "Construindo soluções inteligentes que conectam dados, automação e experiências digitais.",
+    "contact_title": "Contato",
+    "quick_links": "Links rápidos",
+    "rights": "Juan Mendes. Todos os direitos reservados."
+  }
+}

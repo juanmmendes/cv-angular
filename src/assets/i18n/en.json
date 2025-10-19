@@ -1,0 +1,167 @@
+{
+  "a11y": {
+    "skip_to_content": "Skip to main content"
+  },
+  "app": {
+    "meta": {
+      "site_name": "Juan Mendes Portfolio"
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Me",
+    "skills": "Skills",
+    "experience": "Experience",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "home": {
+    "cta_cv": "Download CV (PDF)",
+    "cta_projects": "View Projects",
+    "cta_whatsapp": "WhatsApp Contact",
+    "main_stacks": "Core stacks",
+    "hero_status": "Available for opportunities in data, automation and development",
+    "studying_now": "Currently exploring",
+    "highlights": {
+      "analytics_title": "Data-driven decisions",
+      "analytics_description": "Dashboards and storytelling with Power BI and Python to accelerate insights.",
+      "operations_title": "Connected operations",
+      "operations_description": "Projects in Node.js, Angular and n8n integrations to eliminate repetitive tasks.",
+      "automation_title": "Smart automation",
+      "automation_description": "Workflows with Power Automate, Microsoft 365 and AWS to boost teams."
+    },
+    "cta_cv_aria": "Download Juan Mendes resume as PDF",
+    "cta_photo": "Profile photo",
+    "cta_photo_aria": "Download updated profile photo",
+    "cta_whatsapp_aria": "Open a WhatsApp chat with Juan Mendes"
+  },
+  "about": {
+    "title": "About Me",
+    "availability": "Availability",
+    "availability_description": "Open to hybrid or remote roles focused on data, full stack development and corporate automation.",
+    "studying_now": "Current learning focus",
+    "languages_title": "Languages",
+    "courses_title": "Highlighted Courses & Certifications",
+    "courses_description": "A snapshot of programs and credentials that amplify my work across data, automation and digital experiences.",
+    "highlight_certifications": {
+      "title": "Featured certifications",
+      "description": "Recent achievements with certificates ready to download."
+    }
+  },
+  "skills": {
+    "title": "Key Skills",
+    "subtitle": "Balance between data engineering, full-stack development and process automation.",
+    "languages_title": "Languages & Frameworks",
+    "data_title": "Data/BI & ML",
+    "devops_title": "DevOps & Tooling",
+    "infrastructure_focus": {
+      "title": "Infrastructure & Governance",
+      "description": "Hands-on experience with AWS, DNS administration, VPS management, hosting maintenance and domain governance.",
+      "items": {
+        "aws": "AWS Skill Builder",
+        "hosting": "Hosting maintenance",
+        "domains": "Domain lifecycle management",
+        "m365": "Microsoft 365"
+      },
+      "items_aria": {
+        "aws": "Official AWS training",
+        "hosting": "Operational management for hosting and VPS",
+        "domains": "End-to-end domain registration",
+        "m365": "Microsoft 365 and Power Automate administration"
+      }
+    },
+    "soft_skills": {
+      "title": "Soft skills in action",
+      "description": "Human skills that sustain reliable delivery across data and technology initiatives.",
+      "focus_people": "People focus",
+      "focus_delivery": "Delivery focus",
+      "items": {
+        "communication": "Empathetic communication",
+        "leadership": "Collaborative leadership",
+        "analytics": "Analytical thinking",
+        "time": "Time management",
+        "organization": "Organization & planning",
+        "problem_solving": "Problem solving",
+        "learning": "Continuous learning",
+        "agile": "Agile methodologies",
+        "adaptability": "Adaptability"
+      }
+    },
+    "advanced_knowledge": {
+      "title": "Advanced knowledge",
+      "description": "Security, data governance and intelligent automations for enterprise scenarios.",
+      "items": {
+        "security": "Information security",
+        "lgpd": "LGPD & data protection",
+        "crypto": "Applied cryptography",
+        "ml": "Machine learning",
+        "agents": "AI agents",
+        "protocols": "Network protocols",
+        "http": "HTTP(S) requests"
+      },
+      "items_aria": {
+        "security": "Security best practices",
+        "lgpd": "Compliance with LGPD",
+        "crypto": "Protecting sensitive data with cryptography",
+        "ml": "Designing and testing machine learning models",
+        "agents": "Building intelligent automation agents",
+        "protocols": "Expertise in networking protocols",
+        "http": "Integrations and HTTP/HTTPS requests"
+      }
+    },
+    "tooling_title": "Tooling & Governance",
+    "level": {
+      "intermediate": "Intermediate",
+      "advanced": "Advanced"
+    },
+    "devops_chip_aria": "Key infrastructure tooling highlights (AWS, VPS, DNS)"
+  },
+  "experience": {
+    "title": "Professional Experience",
+    "subtitle": "Measured impact through efficiency, automation and data-driven insights."
+  },
+  "education": {
+    "title": "Education",
+    "subtitle": "Solid background in information technology with continuous focus on data science and engineering."
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "subtitle": "Apps and pipelines that blend data, automation and high-performance digital experiences.",
+    "view_demo": "View demo",
+    "view_code": "View code",
+    "more_repos": "View full repositories",
+    "filter_all": "All"
+  },
+  "certifications": {
+    "title": "Courses, Certifications & Licenses",
+    "subtitle": "Credentials that validate my continuous dedication to technology, data and professional development.",
+    "issued": "Issued",
+    "expires": "Expires",
+    "credential": "Credential",
+    "view_certificate": "View certificate"
+  },
+  "contact": {
+    "title": "Let's talk?",
+    "subtitle": "Choose a direct channel or send a message so we can collaborate on data and innovation projects.",
+    "direct_links": "Quick links",
+    "social_title": "Follow and connect",
+    "form": {
+      "name": "Full name",
+      "name_error": "Please provide your name with at least 3 characters.",
+      "email": "Email",
+      "email_error": "Please provide a valid email address.",
+      "message": "Message",
+      "message_error": "Please describe your message (minimum of 10 characters).",
+      "submit": "Send message",
+      "success": "Message registered! We opened WhatsApp so we can keep the conversation going.",
+      "notice_whatsapp": "After sending we open a WhatsApp chat so you hear back from me faster.",
+      "whatsapp_template": "Hi Juan! My name is {{name}} ({{email}}). I'd like to talk about: {{message}}"
+    }
+  },
+  "footer": {
+    "description": "Building intelligent solutions that connect data, automation and digital experiences.",
+    "contact_title": "Contact",
+    "quick_links": "Quick links",
+    "rights": "Juan Mendes. All rights reserved."
+  }
+}

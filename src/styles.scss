@@ -1,0 +1,79 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --app-background: #f5f7fb;
+  --app-foreground: #0f172a;
+}
+
+[data-theme='dark'] {
+  --app-background: #020617;
+  --app-foreground: #e2e8f0;
+}
+
+body {
+  font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  background: var(--app-background);
+  color: var(--app-foreground);
+}
+
+a {
+  text-decoration: none;
+}
+
+::selection {
+  background: rgba(59, 130, 246, 0.2);
+  color: inherit;
+}
+
+.focus-ring {
+  @apply outline outline-2 outline-primary-500 outline-offset-2;
+}
+
+@keyframes fade-up {
+  0% {
+    opacity: 0;
+    transform: translateY(24px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-up {
+  animation: fade-up 0.75s ease-out both;
+}
+
+.animate-fade-up.delay-1 {
+  animation-delay: 0.1s;
+}
+
+.animate-fade-up.delay-2 {
+  animation-delay: 0.2s;
+}
+
+.animate-fade-up.delay-3 {
+  animation-delay: 0.3s;
+}
+
+.animate-fade-up.delay-4 {
+  animation-delay: 0.4s;
+}
+
+@keyframes float {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-6px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+.floating-card {
+  animation: float 6s ease-in-out infinite;
+}
